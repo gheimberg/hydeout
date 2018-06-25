@@ -6,18 +6,11 @@ highlighter:      rouge
 title:            Graham Heimberg
 tagline:          'A Jekyll theme'
 description:      'A computational biologist interested in modeling gene expression in the immune system'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
-
 author:
 name:           'Graham Heimberg'
 url:            'www.grahamheimberg.com'
-baseurl:        '/'  
+baseurl:        ''
+#baseurl:        '/'
 
 
 paginate:         5
@@ -36,5 +29,5 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:             https://github.com/fongandrew/hydeout
+github:           gheimberg
+twitter:          gheimberg

@@ -1,14 +1,18 @@
 <nav id="sidebar-icon-links">
-  {% if site.github.repo %}
+
+  {% if site.twitter %}
+    <a id="twitter-link"
+      class="icon" title="Twitter" aria-label="Twitter"
+      href="https://twitter.com/{{ site.twitter }}">
+     {% include svg/twitter.svg %}
+   </a>
+  {% endif %}
+
+  {% if site.github %}
     <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.github.repo }}">
+       class="icon" title="Github" aria-label="Github"
+       href="https://github.com/{{ site.github }}">
       {% include svg/github.svg %}
-    </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
     </a>
   {% endif %}
 
@@ -31,6 +35,7 @@
     {% endif %}
   {% endfor %}
 
+<!--
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -39,6 +44,7 @@
       {% include svg/tags.svg %}
     </a>
   {% endif %}
+-->
 
   {% if search_page %}
     <a id="search-link"
