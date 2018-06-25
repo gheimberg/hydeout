@@ -2,5 +2,16 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
+// sidebar color scheme in hex, default is 202020 (dark grey)
+$sidebar-bg-color: #ac4142;
+
+// highlighting color for links
+$link-color: #ac4142;
+
+// Keep sidebar up at the top (false) or bottom (true - default)
+$sidebar-sticky: true !default;
+
+// switch sidebar sides (left - false - default)
+$layout-reverse: false !default;
 
 @import "hydeout";
