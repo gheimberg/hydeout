@@ -15,8 +15,10 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Graham Heimberg'
-  url:            https://twitter.com/fongandrewc
+name:           'Graham Heimberg'
+url:            'www.grahamheimberg.com'
+baseurl:        '/'  
+
 
 paginate:         5
 # paginate_path:    '/page:num'
