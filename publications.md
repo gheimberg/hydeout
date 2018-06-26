@@ -6,6 +6,9 @@ sidebar_link: true
 
 ## 2016
 <p class="message">
+<a href="https://www.cell.com/fulltext/S2405-4712(16)30109-0">
+<img src="https://www.cell.com/cms/attachment/2062926501/2065404700/cover.tif.jpg" alt="cell systems cover" width="160px" align="left" style="margin: 0px 10px 0px 0px;"/>
+</a>
  <a href="https://www.cell.com/fulltext/S2405-4712(16)30109-0"> Low Dimensionality in Gene Expression Data Enables the Accurate Extraction of Transcriptional Programs from Shallow Sequencing </a> <br>
  <b>Graham Heimberg</b><sup>*</sup>, Rajat Bhatnagar<sup>*</sup>, Hana El-Samad<sup>#</sup>, Matt Thomson<sup>#</sup> <br>
  Cell Systems, 2016 <br>
