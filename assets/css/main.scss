@@ -3,10 +3,13 @@
 # only main files contain this front matter, not partials.
 ---
 // sidebar color scheme in hex, default is 202020 (dark grey)
-$sidebar-bg-color: #ac4142;
+//$sidebar-bg-color: #ac4142;
+$sidebar-bg-color: #007849;
 
 // highlighting color for links
-$link-color: #ac4142;
+//$link-color: #ac4142;
+$link-color: #0375B4;
+
 
 // Keep sidebar up at the top (false) or bottom (true - default)
 $sidebar-sticky: true !default;
