@@ -9,8 +9,8 @@ description:      'A computational biologist interested in modeling gene express
 author:
 name:           'Graham Heimberg'
 url:            'www.grahamheimberg.com'
-#baseurl:        ''
-baseurl:        '/'
+baseurl:        ''
+#baseurl:        '/'
 
 
 paginate:         5
