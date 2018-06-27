@@ -4,7 +4,7 @@ title: Getting the JSMF postdoctoral fellowship
 excerpt_separator:  <!--more-->
 ---
 
-I was fortunate enough to revive the [James S McDonnell Foundation Postdoctoral Fellowship](https://www.jsmf.org/apply/fellowship/). The fellowship includes $200,000 towards your salary as a postdoc and biannual meetings with other JSMF fellows hosted by the unique [Santa Fe Institute](https://www.santafe.edu/). At my first meeting, I had a fantastic time getting to know other fellows and SFI researchers and am looking forward to seeing them again in September. This fellowship and funding will be even more useful than I could have originally imagined!
+I was fortunate enough to receive the [James S McDonnell Foundation Postdoctoral Fellowship](https://www.jsmf.org/apply/fellowship/). The fellowship includes $200,000 towards your salary as a postdoc and biannual meetings with other JSMF fellows hosted by the unique [Santa Fe Institute](https://www.santafe.edu/). At my first meeting, I had a fantastic time getting to know other fellows and SFI researchers and am looking forward to seeing them again in September. This fellowship and funding will be even more useful than I could have originally imagined!
 
 <!--
 <p style="float: left; font-size: 9pt; text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="assets/images/DSC_0632.JPG" style="width: 100%">White boards full of ideas. My group is around the white board in the background. </p>
