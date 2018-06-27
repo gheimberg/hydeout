@@ -45,10 +45,16 @@ Minor Bioengineering  <br>
 2016
 </p>
 
-
-## Publications
+<p class="message">
+ <a href="https://pharmacy.ucsf.edu/about/honors-awards/seed"> Mary Anne Koda-Dimble Seed Award for Innovation </a> <br>
+ $20,000 internal UC San Francisco grant <br>
+ largest award of the funding cycle <br>
+ proposed stratifying auto-immune patients with single cell RNA-seq <br>
+2016
+</p>
 
 ## Teaching
+
 
 ## Outreach
 

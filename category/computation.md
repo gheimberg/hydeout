@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Computational Concepts
 ---
 
-Another sample category page.
+Below are posts about various computational concepts that I am thinking about.
