@@ -34,8 +34,8 @@ One question that was on my mind was "does my research fit with the criteria and
 ## Application resources
 Before I applied, I reached out to past winners to see if I could get some inspiration for writing the proposal and personal statement. I received a copy of somebody else's succesfull application and therefore I want to pass it on.
 
-* <a href="assets/pdfs/jsmf/Heimberg_CV.pdf" download="GH_CV_2017.pdf">Postdoctoral vision statement</a>
-* <a href="assets/pdfs/jsmf/Heimberg_CV.pdf" download="GH_CV_2017.pdf">Research proposal</a>
+* <a href="assets/pdfs/jsmf/postdoc.pdf" download="GH_CV_2017.pdf">Postdoctoral vision statement</a>
+* <a href="assets/pdfs/jsmf/research.pdf" download="GH_CV_2017.pdf">Research proposal</a>
 * <a href="assets/pdfs/jsmf/Heimberg_CV.pdf" download="GH_CV_2017.pdf">CV (2017)</a>
 
 Feel free to peruse my materials. Let me know if you find them helpful!
