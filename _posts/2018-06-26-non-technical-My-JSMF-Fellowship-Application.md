@@ -1,6 +1,10 @@
 ---
 layout: post
-title: The JSMF postdoctoral fellowship
+title: "The JSMF postdoctoral fellowship"
+categories:
+  - non-technical
+tags:
+  - JSMF
 excerpt_separator:  <!--more-->
 ---
 

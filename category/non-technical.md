@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: non-technical
 ---
 
 Another sample category page.
