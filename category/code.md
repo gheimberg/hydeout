@@ -2,6 +2,8 @@
 layout: category
 title: Edge Case
 ---
+**Under construction**
+This section will be where I share code that I find to be useful in my work.
 
 Sample category page. You need to create a page for each category.
 The category is inferred from the title of the page, but you can also

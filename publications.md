@@ -28,3 +28,17 @@ Cell Systems, 2015 <br>
 Weiyue Ji, Derrick Lee, Eric Wong, Priyanka Dadlani, David Dinh, Verna Huang, Kendall Kearns, Sherry Teng, Susan Chen, John Haliburton, <b>Graham Heimberg</b>, Benjamin Heineike, Anusuya Ramasubramanian, Thomas Stevens, Kara J. Helmke, Veronica Zepeda, Lei S. Qi, and Wendell A. Lim <br>
 ACS Synthetic Biology, 2014 <br>
 </p>
+
+## 2008
+<p class="message">
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1889/1.3069676"> Fully Addressable Self-Assembled Microcavity Plasma Arrays: Improved Luminous Efficacy by Controlling Device Geometry </a> <br>
+KS Kim, JK Yoon, EW Xie, TL Kim, <b>GS Heimberg</b>, S Park, JG Eden <br>
+SID International Symposium Digest of Technical Papers, 2014 <br>
+</p>
+
+## 2006
+<p class="message">
+<a href="https://pdfs.semanticscholar.org/43d5/697130e4e69eedbe66af6da5e11f3b24cc6b.pdf"> An astronomical site survey at the Barcroft Facility of the White Mountain Research Station </a> <br>
+J Marvil, M Ansmann, J Childers, T Cole, GV Davis, E Hadjiyska, D Halevi, <b>G Heimberg</b>, M Kangas, A Levy, R Leonardi, P Lubin, P Meinhold, H O’Neill, S Parendo, E Quetin, N Stebor, T Villela, B Williams, CA Wuensche, K Yamaguchi <br>
+New Astronomy, 2006 <br>
+</p>
