@@ -12,6 +12,8 @@ url:            'www.grahamheimberg.com'
 baseurl:        ''
 #baseurl:        '/'
 
+# Google Analytics
+google_analytics: UA-121415295-1
 
 paginate:         5
 # paginate_path:    '/page:num'
