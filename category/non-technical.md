@@ -3,4 +3,4 @@ layout: category
 title: non-technical
 ---
 
-Another sample category page.
+Here is a collection of **non-technical** posts.
