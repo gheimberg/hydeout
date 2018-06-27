@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Graham Heimberg
 tagline:          'A Jekyll theme'
-description:      'A computational biologist interested in modeling gene expression in the immune system'
+description:      'A computational biologist modeling gene expression in the immune system'
 author:
 name:           'Graham Heimberg'
 url:            'www.grahamheimberg.com'
