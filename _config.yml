@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Graham Heimberg
-tagline:          'A Jekyll theme'
+tagline:          'personal webpage'
 description:      'A computational biologist modeling gene expression in the immune system'
 author:
 name:           'Graham Heimberg'
@@ -14,6 +14,10 @@ baseurl:        ''
 
 # Google Analytics
 google_analytics: UA-121415295-1
+
+# add comments
+disqus:
+  shortname: Graham
 
 paginate:         5
 # paginate_path:    '/page:num'
