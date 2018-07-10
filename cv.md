@@ -55,7 +55,11 @@ Minor Bioengineering  <br>
 
 ## Teaching
 
-
 ## Outreach
 
 ## Research Talks
+
+## Media
+* [UCSF news](https://www.ucsf.edu/news/2016/04/402551/math-points-100-times-faster-mapping-gene-activity) coverage of our shallow RNA-sequencing paper in Cell Systems.
+* [UCSF news](https://www.rna-seqblog.com/ucsf-researchers-discover-that-deep-sequencing-is-overkill-for-many-applications/) coverage of Koda Kimble award.
+* [Bay Area NSF I-corps](https://bayicorps.com/2016/11/28/mentor-moment-jill-fujisaki-with-waypoint-biosciences/) interview with our team mentor about our experience going through the national level business development program.
