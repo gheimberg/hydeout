@@ -42,7 +42,7 @@ Minor Bioengineering  <br>
  <a href="https://www.nsf.gov/news/special_reports/i-corps/"> <b> NSF Innovation-Corps </b> </a> <br>
  $50,000 of funding for business development <br>
  immersive 7-week course on business development <br>
-  <a href=" https://www.research.gov/research-portal/appmanager/base/desktop;jsessionid=mS6SbFYJy4fQGLyDtTGPs2X98LQN2XsbhYYWW0TJnk006yyBchp3!1477615627!558053752?_nfpb=true&_windowLabel=T31400570011264188753337&wsrp-urlType=blockingAction&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtgBZ6Af8&wsrp-interactionState=wlpT31400570011264188753337_action%3DviewRsrDetail%26wlpT31400570011264188753337_fedAwrdId%3D1647037&wsrp-mode=wsrp%3Aview&wsrp-windowState="> award abstract and project outcomes </a> <br>
+  <a href=" https://www.research.gov/research-portal/appmanager/base/desktop;jsessionid=mS6SbFYJy4fQGLyDtTGPs2X98LQN2XsbhYYWW0TJnk006yyBchp3!1477615627!558053752?_nfpb=true&_windowLabel=T31400570011264188753337&wsrp-urlType=blockingAction&wsrp-url=&wsrp-requiresRewrite=&wsrp-navigationalState=eJyLL07OL0i1Tc-JT0rMUYNQtgBZ6Af8&wsrp-interactionState=wlpT31400570011264188753337_action%3DviewRsrDetail%26wlpT31400570011264188753337_fedAwrdId%3D1647037&wsrp-mode=wsrp%3Aview&wsrp-windowState="> see reported project outcomes </a> <br>
 2016
 </p>
 
