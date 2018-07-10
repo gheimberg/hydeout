@@ -37,3 +37,9 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:           gheimberg
 twitter:          gheimberg
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
