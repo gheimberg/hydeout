@@ -55,8 +55,27 @@ Minor Bioengineering  <br>
 </p>
 
 ## Teaching
+<p class="message">
+ <b> UCSF Teaching Assistant - Systems Lab Course, Prof. Joe DeRisi </b> <br>
+ Supervised graduate student teams sequencing DNA and RNA of yeast strains. <br>
+Fall 2012
+</p>
 
 ## Outreach
+<p class="message">
+ <b> Mentor - international Genetically Engnineered Machines competition </b> <br>
+  Taught programing, data analysis and modeling to high school team members.<br>
+Summers 2012, 2013
+</p>
+
+<p class="message">
+ <b> Volunteer - Science & Health Education Partnership </b> <br>
+ Led four science lessons for kindergarteners and 1 st graders. <br>
+2011
+</p>
+
+
+
 
 ## Research Talks
 
