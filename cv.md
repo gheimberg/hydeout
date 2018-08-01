@@ -28,7 +28,7 @@ Minor Bioengineering  <br>
 
 <p class="message">
  <b> <a href="http://systemsbio.ucsd.edu/"> Sheng Zhong Lab </a> </b> <br>
-2011-2018
+2010-2011
 </p>
 
 ## Awards and Grants
